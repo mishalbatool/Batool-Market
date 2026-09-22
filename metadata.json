@@ -1,0 +1,6 @@
+{
+  "name": "Batool Market",
+  "description": "Modern e-commerce store with Cash on Delivery and Free Delivery across Pakistan. Order easily via WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
